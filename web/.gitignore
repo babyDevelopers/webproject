@@ -3,7 +3,7 @@
 # Created by https://www.gitignore.io/api/windows,java,eclipse
 
 ### Eclipse ###
-
+MANIFEST.MF
 .metadata
 bin/
 tmp/
